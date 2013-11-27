@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/AEtherSurfer/SikuliX-Basics.png)](https://travis-ci.org/AEtherSurfer/optiq)
+
+[![Build Status](https://travis-ci.org/RaiMan/SikuliX-Basics.png)](https://travis-ci.org/julianhyde/optiq)
+
 Sikuli Basics 1.0.1
 =============
 
